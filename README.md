@@ -1,5 +1,4 @@
 # Testgit
-Test for git cmd
+Test for git cmd<br>
 Prueba para git
-Creacion rama dev
-Modificacion dentro de dev
+Creacion rama developer
